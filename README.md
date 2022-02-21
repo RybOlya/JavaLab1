@@ -1,5 +1,4 @@
 # Lab1
-Лабораторна робота 1
 ![image](https://user-images.githubusercontent.com/56222578/154967112-49713e45-c86b-48a1-b66f-cdb9310ed336.png)
 
 Створена консольна програма мовою Java у якій написаний record клас TravelVoucher який додатково міститить:
